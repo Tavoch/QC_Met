@@ -1,0 +1,65 @@
+2024-04-08 08:03:37,773 - ----------------------------------------
+2024-04-08 08:03:37,773 - Rango de fechas: 2024-04-08 06:00:00 a 2024-04-08 06:50:00
+2024-04-08 08:03:37,773 - Total de valores en el DataFrame: 2320
+2024-04-08 08:03:37,773 - Total de errores procesados: 27
+2024-04-08 08:03:37,774 - Tiempo de ejecución: 4 minutos 54 segundos
+2024-04-08 08:14:05,955 - ----------------------------------------
+2024-04-08 08:14:05,955 - Rango de fechas: 2024-04-08 06:50:00 a 2024-04-08 07:10:00
+2024-04-08 08:14:05,955 - Total de valores en el DataFrame: 725
+2024-04-08 08:14:05,957 - Total de errores procesados: 9
+2024-04-08 08:14:05,957 - Tiempo de ejecución: 4 minutos 2 segundos
+2024-04-08 08:23:53,398 - ----------------------------------------
+2024-04-08 08:23:53,398 - Rango de fechas: 2024-04-08 07:10:00 a 2024-04-08 07:20:00
+2024-04-08 08:23:53,398 - Total de valores en el DataFrame: 493
+2024-04-08 08:23:53,399 - Total de errores procesados: 19
+2024-04-08 08:23:53,399 - Tiempo de ejecución: 3 minutos 50 segundos
+2024-04-08 15:44:14,045 - ----------------------------------------
+2024-04-08 15:44:14,045 - Rango de fechas: 2024-04-08 07:20:00 a 2024-04-08 14:40:00
+2024-04-08 15:44:14,045 - Total de valores en el DataFrame: 18067
+2024-04-08 15:44:14,045 - Total de errores procesados: 435
+2024-04-08 15:44:14,045 - Tiempo de ejecución: 2 minutos 22 segundos
+2024-04-08 15:57:16,010 - ----------------------------------------
+2024-04-08 15:57:16,010 - Rango de fechas: 2024-04-08 13:50:00 a 2024-04-08 15:50:00
+2024-04-08 15:57:16,010 - Total de valores en el DataFrame: 2929
+2024-04-08 15:57:16,010 - Total de errores procesados: 38
+2024-04-08 15:57:16,010 - Tiempo de ejecución: 4 minutos 16 segundos
+2024-04-08 16:03:48,773 - ----------------------------------------
+2024-04-08 16:03:48,773 - Rango de fechas: 2024-04-08 14:50:00 a 2024-04-08 15:00:00
+2024-04-08 16:03:48,773 - Total de valores en el DataFrame: 232
+2024-04-08 16:03:48,773 - Total de errores procesados: 0
+2024-04-08 16:03:48,773 - Tiempo de ejecución: 3 minutos 46 segundos
+2024-04-08 16:13:12,868 - ----------------------------------------
+2024-04-08 16:13:12,869 - Rango de fechas: 2024-04-08 15:00:00 a 2024-04-08 16:00:00
+2024-04-08 16:13:12,869 - Total de valores en el DataFrame: 203
+2024-04-08 16:13:12,869 - Total de errores procesados: 0
+2024-04-08 16:13:12,869 - Tiempo de ejecución: 6 minutos 7 segundos
+2024-04-08 16:13:43,339 - ----------------------------------------
+2024-04-08 16:13:43,339 - Rango de fechas: 2024-04-08 15:00:00 a 2024-04-08 16:00:00
+2024-04-08 16:13:43,339 - Total de valores en el DataFrame: 203
+2024-04-08 16:13:43,339 - Total de errores procesados: 0
+2024-04-08 16:13:43,339 - Tiempo de ejecución: 4 minutos 21 segundos
+2024-04-08 16:24:08,251 - ----------------------------------------
+2024-04-08 16:24:08,251 - Rango de fechas: 2024-04-08 15:00:00 a 2024-04-08 16:20:00
+2024-04-08 16:24:08,251 - Total de valores en el DataFrame: 725
+2024-04-08 16:24:08,251 - Total de errores procesados: 10
+2024-04-08 16:24:08,251 - Tiempo de ejecución: 4 minutos 5 segundos
+2024-04-08 16:26:32,108 - ----------------------------------------
+2024-04-08 16:26:32,108 - Rango de fechas: 2024-04-08 15:20:00 a 2024-04-08 16:20:00
+2024-04-08 16:26:32,108 - Total de valores en el DataFrame: 174
+2024-04-08 16:26:32,108 - Total de errores procesados: 0
+2024-04-08 16:26:32,108 - Tiempo de ejecución: 3 minutos 35 segundos
+2024-04-08 16:28:06,546 - ----------------------------------------
+2024-04-08 16:28:06,547 - Rango de fechas: 2024-04-08 15:20:00 a 2024-04-08 16:20:00
+2024-04-08 16:28:06,547 - Total de valores en el DataFrame: 174
+2024-04-08 16:28:06,547 - Total de errores procesados: 0
+2024-04-08 16:28:06,547 - Tiempo de ejecución: 3 minutos 46 segundos
+2024-04-08 16:34:30,841 - ----------------------------------------
+2024-04-08 16:34:30,841 - Rango de fechas: 2024-04-08 15:20:00 a 2024-04-08 16:30:00
+2024-04-08 16:34:30,841 - Total de valores en el DataFrame: 435
+2024-04-08 16:34:30,842 - Total de errores procesados: 9
+2024-04-08 16:34:30,842 - Tiempo de ejecución: 3 minutos 31 segundos
+2024-04-08 16:43:39,310 - ----------------------------------------
+2024-04-08 16:43:39,310 - Rango de fechas: 2024-04-08 15:30:00 a 2024-04-08 16:40:00
+2024-04-08 16:43:39,310 - Total de valores en el DataFrame: 348
+2024-04-08 16:43:39,310 - Total de errores procesados: 12
+2024-04-08 16:43:39,310 - Tiempo de ejecución: 3 minutos 36 segundos
